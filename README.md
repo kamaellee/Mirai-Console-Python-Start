@@ -29,7 +29,17 @@ Mirai-Console-Python-Start（以下皆统称：本项目）遵从源项目采用
 
 
 
+## 本项目所需模块：
+
+`os` 、`subprocess`、`hashlib` 、`yaml`
+
+**<u>`致萌新`</u>**：使用`win` + `r`  输入 `cmd` 输入 `pip list` 查看已有包名，缺少的使用 `pip install 模块名` 安装
+
+
+
 ## 本项目使用方法：
+
+需要有一定的pyton基础，包括但不限于部署环境、安装使用IDE、手敲代码等。
 
 ### 方法1（适用于win）：
 
