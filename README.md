@@ -9,7 +9,13 @@ Mirai-Console-Python-Start（以下皆统称：本项目）遵从源项目采用
 
 本项目设计初衷是某强迫症（本人）觉得 **[*Mirai*OK](https://github.com/LXY1226/MiraiOK)** 多一个弹窗看不顺眼，想把`mirai`也放在python后端运行，故诞生了此项目。
 
+## 本项目环境：
 
+###  Win10 - 专业版
+
+### python 3.8.5
+
+### Java 14.0.1
 
 
 
@@ -54,6 +60,14 @@ mirai 在版本发布时会同时发布打包依赖的 Shadow JAR，存放在 [`
 ### 方法3（待测试，适用于linux）：
 
 此方法测试完成后会更新。
+
+
+
+## To Do List：
+
+- [ ] Linux版运行
+- [ ] 可选择性更新Mirai
+- [ ] ~~待补充…~~
 
 
 
