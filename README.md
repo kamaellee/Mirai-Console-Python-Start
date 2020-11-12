@@ -9,13 +9,15 @@ Mirai-Console-Python-Start（以下皆统称：本项目）遵从源项目采用
 
 本项目设计初衷是某强迫症（本人）觉得 **[*Mirai*OK](https://github.com/LXY1226/MiraiOK)** 多一个弹窗看不顺眼，想把`mirai`也放在python后端运行，故诞生了此项目。
 
-## 本项目环境：
+## 本项目测试环境：
 
-###  Win10 - 专业版
+### Windows：
 
-### python 3.8.5
-
-### Java 14.0.1
+> ###  Win10 - 专业版
+>
+> ### python 3.8.5
+>
+> ### Java 14.0.1
 
 
 
@@ -66,9 +68,10 @@ mirai 在版本发布时会同时发布打包依赖的 Shadow JAR，存放在 [`
 ## To Do List：
 
 - [ ] 修改初次启动程序中断，需要再次重启的bug
-- [ ] Linux版运行
+- [x] ~~Linux版运行~~ 使用bash script或者miraiOK就好
 - [ ] 可选择性更新Mirai
 - [ ] 代码逻辑优化
+- [ ] 一键启动mirai及graia bot
 - [ ] ~~待补充…~~
 
 
