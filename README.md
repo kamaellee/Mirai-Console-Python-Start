@@ -8,6 +8,7 @@ Mirai-Console-Python-Start（以下皆统称：本项目）遵从源项目采用
 ## 本项目介绍：
 
 本项目设计初衷是某强迫症（本人）觉得 **[*Mirai*OK](https://github.com/LXY1226/MiraiOK)** 多一个弹窗看不顺眼，想把`mirai`也放在python后端运行，故诞生了此项目。
+### 本项目暂停更新，因发现前人已有写好的功能 **[ MiraiN](https://github.com/WDFunction/MiraiN)** ，所以弃坑了。
 
 ## 本项目测试环境：
 
